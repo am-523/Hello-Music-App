@@ -28,7 +28,7 @@ Hello Music Apps
 		<a href="https://web.facebook.com/project523">
 			Facebook
 		</a>&nbsp;|
-		<a href="https://www.instagram.com/0x0000523am/">
+		<a href="https://www.instagram.com/project_am523/">
 			Instagram
 		</a>
 	</b>
