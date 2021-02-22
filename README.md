@@ -37,7 +37,7 @@ Hello Music Apps
 
 
 ## Tutorial 📸
-- <a href="https://youtu.be/DW9DJUSuI_s">
+- <a href="https://youtu.be/Pcoh5Lz94Qc">
 			Youtube
 		</a> 
 
